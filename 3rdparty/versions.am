@@ -19,7 +19,7 @@
 # third-party packages in exactly one place. For now, however, we
 # still need to update version numbers in src/python/setup.py.in too!
 
-DISTRIBUTE_VERSION = 0.6.26
+SETUPTOOLS_VERSION = 20.9.0
 LEVELDB_VERSION = 1.4
 PIP_VERSION = 7.1.2
 WHEEL_VERSION = 0.24.0
